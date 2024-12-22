@@ -1,0 +1,6 @@
+{
+	"/": [],
+	"/api/getIPaddress": [
+		"src/routes/api/getIPaddress/+server.ts"
+	]
+}

@@ -32,7 +32,7 @@
 <h1 class="text-3xl font-bold underline">Welcome to SvelteKit</h1>
 
 <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
-
+<p>Welcome to Sveltekit!</p>
 <button class="rounded bg-blue-500 px-6 py-2 font-bold text-white hover:bg-blue-600">
 	Click Me
 </button>
